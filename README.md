@@ -12,5 +12,8 @@ Website:  https://world-of-coding.tech/
 🔗 ➥Invite link
 https://discord.gg/program
 
+🔗 ➥Reddit
+https://www.reddit.com/r/code/new/
+
 ☁️ ➥Weather bot! (Our custom weather bot!)
 https://world-of-coding.tech/weather 
